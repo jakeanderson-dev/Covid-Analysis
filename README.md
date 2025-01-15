@@ -26,12 +26,15 @@ To run the project locally, follow these steps:
    git clone https://github.com/yourusername/covid-data-visualization.git
 
 2. Navigate to the project directory:
+   ```bash
    cd covid-data-visualization
    
 4. Install the required dependencies:
+   ```bash
    pip install pandas matplotlib seaborn
 
 6. Run the Python script:
+   ```bash
    python covid_analysis.py
    
 This will generate the visualizations as PNG files and save them to the project directory.
