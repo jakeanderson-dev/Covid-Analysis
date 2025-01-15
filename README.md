@@ -54,8 +54,10 @@ This plot shows the number of new COVID-19 cases reported over time in the Unite
 
 This plot shows the cumulative number of COVID-19 cases over time in the United States.
 
-Insights
+## Insights
+
 The plots show the exponential growth of new cases during early waves of the pandemic.
 The total cases graph provides an overview of how the pandemic accumulated over time in the U.S.
-License
+## License
+
 This project is licensed under the MIT License.
